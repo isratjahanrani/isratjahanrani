@@ -182,28 +182,6 @@ My core proficiencies span **backend engineering with Java and Spring Boot**, **
 
 ---
 
-## 📊 GitHub Analytics & Developer Activity
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=isratjahanrani&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" alt="Israt's GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isratjahanrani&layout=compact&theme=radical&hide_border=true" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isratjahanrani&theme=radical&hide_border=true" width="95%" alt="GitHub Streak Stats" />
-</p>
-
-</div>
-
----
 
 ## 📬 Let's Connect & Collaborate
 
